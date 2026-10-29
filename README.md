@@ -1,4 +1,4 @@
-# IP Range Calculator
+# ip-range-calculator
 
 ![Platform](https://img.shields.io/badge/platform-Web-blue)
 ![Language](https://img.shields.io/badge/language-JavaScript-yellow)
