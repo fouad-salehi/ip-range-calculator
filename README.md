@@ -1,12 +1,12 @@
 # ip-range-calculator
 
-![Platform](https://img.shields.io/badge/platform-Web-blue)
-![Language](https://img.shields.io/badge/language-JavaScript-yellow)
-![Tool](https://img.shields.io/badge/tool-VLSM%20Calculator-orange)
-![Network](https://img.shields.io/badge/network-Subnet%20Planner-green)
-![Mode](https://img.shields.io/badge/mode-Client--Side-red)
-![Browser](https://img.shields.io/badge/runs%20in-Browser-purple)
-![Firebase](https://img.shields.io/badge/hosted%20on-Firebase-orange)
+![Platform](https://img.shields.io/badge/platform-Web-0EA5E9?style=for-the-badge)
+![Language](https://img.shields.io/badge/language-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tool](https://img.shields.io/badge/tool-VLSM%20Calculator-F97316?style=for-the-badge)
+![Network](https://img.shields.io/badge/network-Subnet%20Planner-22C55E?style=for-the-badge)
+![Mode](https://img.shields.io/badge/mode-Client--Side-EF4444?style=for-the-badge)
+![Browser](https://img.shields.io/badge/runs%20in-Browser-8B5CF6?style=for-the-badge)
+![Firebase](https://img.shields.io/badge/hosted%20on-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 <img width="1456" height="720" alt="IP Range Calculator - VLSM and Subnet Planner" src="https://github.com/user-attachments/assets/4468609a-e03b-41c8-ad71-44aed2000289" />
 
