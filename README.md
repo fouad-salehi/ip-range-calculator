@@ -8,8 +8,6 @@
 ![Browser](https://img.shields.io/badge/runs%20in-Browser-8B5CF6?style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/hosted%20on-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-<img width="1456" height="720" alt="IP Range Calculator - VLSM and Subnet Planner" src="https://github.com/user-attachments/assets/4468609a-e03b-41c8-ad71-44aed2000289" />
-
 ## About
 
 IP Range Calculator is a browser-based VLSM and subnet planning tool designed to demonstrate automatic IP range allocation using modern web technologies.
